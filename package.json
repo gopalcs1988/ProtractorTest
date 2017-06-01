@@ -1,0 +1,21 @@
+{
+  "name": "protractortest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webdriver-update": "webdriver-manager update"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-jasmine": "^1.1.0",
+    "grunt-protractor-runner": "^5.0.0",
+    "grunt-protractor-webdriver": "^0.2.5",
+    "protractor": "^2.1.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
