@@ -13,7 +13,8 @@
     "grunt-contrib-jasmine": "^1.1.0",
     "grunt-protractor-runner": "^5.0.0",
     "grunt-protractor-webdriver": "^0.2.5",
-    "protractor": "^2.1.0"
+    "protractor": "^2.1.0",
+    "protractor-jasmine2-html-reporter": "0.0.7"
   },
   "dependencies": {
     "grunt": "^1.0.1"
