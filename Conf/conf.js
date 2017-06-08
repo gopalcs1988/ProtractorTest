@@ -9,6 +9,7 @@ exports.config={
         showColors: true,
         defaultTimeoutInterval: 30000
     },
+    
 
     onPrepare: function() {
         jasmine.getEnv().addReporter(

@@ -25,6 +25,9 @@ var ElementLocators = function(){
             case 'binding':
                 return element(by.binding(value));
                 break;
+            case 'class':
+                return element(by.class(value));
+                break;
         };
     };
 
